@@ -1,0 +1,24 @@
+<Plan>
+  <G_FRAMEWINDOW>
+    <BasicFrameWindow weight="100"/>
+  </G_FRAMEWINDOW>
+  <G_FRAMEDOOR>
+    <BasicFrameDoor weight="100"/>
+    <FrameDoorWithTriangle weight="100"/>
+  </G_FRAMEDOOR>
+  <G_WINDOW>
+    <SimpleWindow weight="100"/>
+    <CrossWindow weight="100"/>
+    <BarWindow weight="100"/>
+  </G_WINDOW>
+  <G_WALL>
+    <BasicWall weight="100"/>
+  </G_WALL>
+  <G_DECORATION>
+    <Bar weight="100"/>
+    <DecorationNull weight="100"/>
+  </G_DECORATION>
+  <G_BALCONY>
+    <SimpleBalcony weight="100" link="../Buildings/Assets/Balcony/pdefault_SimpleBalcony.xml"/>  
+  </G_BALCONY>
+</Plan>

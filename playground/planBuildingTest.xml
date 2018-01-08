@@ -1,0 +1,31 @@
+<Building>
+  <BOTTOMFLOOR type="BasicBottomFloor">
+      <WALLWITHDOOR type="BasicWallWithDoor">
+	  <FRAMEDOOR type="FrameDoorWithTriangle"/>
+	  <DOOR type="DoorWithHole"/>
+	  <WALLWITHWINDOW type="BasicWallWithWindow2">
+	      <FRAMEWINDOW type="BasicFrameWindow"/>
+	      <WINDOW type="CrossWindow"/>
+	      <WALL type ="BasicWall"/>
+	      <DECORATION type="Bar"/>
+	  <WALLWITHWINDOW />
+      <WALLWITHDOOR />
+   <BOTTOMFLOOR />
+   <MIDDLEFLOOR type="BasicMiddleFloor">
+      <WALLWITHWINDOW type="BasicWallWithWindow2">
+	    <FRAMEWINDOW type="BasicFrameWindow"/>
+	    <WINDOW type="CrossWindow"/>
+	    <WALL type ="BasicWall"/>
+	    <DECORATION type="Bar"/>
+      <WALLWITHWINDOW />
+   <MIDDLEFLOOR />
+   <TOPFLOOR type="BasicTopFloor">
+      <ROOF type="SimpleRoof" />
+      <WALLWITHWINDOW type="BasicWallWithWindow2">
+	    <FRAMEWINDOW type="BasicFrameWindow"/>
+	    <WINDOW type="CrossWindow"/>
+	    <WALL type ="BasicWall"/>
+	    <DECORATION type="Bar"/>
+      <WALLWITHWINDOW />
+   <TOPFLOOR />
+<Building />

@@ -1,0 +1,16 @@
+<Plan>
+  <G_FRAMEDOOR>
+	<BasicFrameDoor weight="100"/>
+	<FrameDoorWithTriangle weight="100"/>
+  </G_FRAMEDOOR>
+  <G_DOOR>
+    <SimpleDoor weight="100"/>
+	<WorkingDoor weight="100"/>
+	<DoorWithHole weight="100"/>
+  </G_DOOR>
+  <G_WALLWITHWINDOW>
+    <BasicWallWithWindow weight="100" link="../Buildings/Assets/WallWithWindow/pdefault_BasicWallWithWindow.xml"/>
+	<WallWithBigWindow weight="100" link="../Buildings/Assets/WallWithWindow/pdefault_WallWithBigWindow.xml"/>
+	<WallWithStore weight="100" link="../Buildings/Assets/WallWithWindow/pdefault_WallWithStore.xml"/>
+  </G_WALLWITHWINDOW>
+</Plan>

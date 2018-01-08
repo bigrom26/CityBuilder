@@ -1,0 +1,14 @@
+<Plan>
+  <G_BUILDING>
+    <BasicBuilding weight="100" link="../Buildings/Assets/Building/pdefault_BasicBuilding.xml" />
+  </G_BUILDING>
+  <G_PAVEMENT>
+    <BasicPavement weight="100" />
+  </G_PAVEMENT>
+  <G_STREETLIGHT>
+    <SimpleStreetlight weight="100" />
+  </G_STREETLIGHT>
+  <G_TRAFFICLIGHT>
+    <SimpleTrafficLight weight="100" />
+  </G_TRAFFICLIGHT>
+</Plan>

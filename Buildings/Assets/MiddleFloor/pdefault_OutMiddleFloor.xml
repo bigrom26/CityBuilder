@@ -1,0 +1,11 @@
+<Plan>
+  <G_DECORATION>
+	<Bar weight="100"/>
+	<DecorationNull weight="100"/>
+  </G_DECORATION>
+  <G_WALLWITHWINDOW>
+	<BasicWallWithWindow weight="100" link="../Buildings/Assets/WallWithWindow/pdefault_BasicWallWithWindow.xml"/>
+	<WallWithInBalcony weight="100" link="../Buildings/Assets/WallWithWindow/pdefault_WallWithInBalcony.xml"/>
+	<WallWithWindowAndBalcony weight="100" link="../Buildings/Assets/WallWithWindow/pdefault_WallWithWindowAndBalcony.xml"/>
+  </G_WALLWITHWINDOW>
+</Plan>

@@ -1,0 +1,2 @@
+LOCAL_ASSET_HEADER_FILES = FactoryMiddleFloor.hpp MiddleFloor.hpp BasicMiddleFloor.hpp MiddleFloorWithTwoFacades.hpp OutMiddleFloor.hpp WorkingMiddleFloor2.hpp WorkingMiddleFloor.hpp
+LOCAL_ASSET_SRC_FILES =  FactoryMiddleFloor.cpp MiddleFloor.cpp BasicMiddleFloor.cpp MiddleFloorWithTwoFacades.cpp OutMiddleFloor.cpp WorkingMiddleFloor2.cpp WorkingMiddleFloor.cpp

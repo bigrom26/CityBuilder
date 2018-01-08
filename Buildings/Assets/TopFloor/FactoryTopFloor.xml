@@ -1,0 +1,11 @@
+<Plan>
+  <G_ROOF>
+	<FactoryRoof weight="100"/>
+  </G_ROOF>
+  <G_DECORATION>
+	<DecorationNull weight="100"/>
+  </G_DECORATION>
+  <G_WALLWITHWINDOW>
+    <BasicWallWithWindow weight="100" link="../Buildings/Assets/WallWithWindow/pdefault_BasicWallWithWindow.xml"/>
+  </G_WALLWITHWINDOW>
+</Plan>

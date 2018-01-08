@@ -1,0 +1,11 @@
+<Plan>
+  <G_BOTTOMFLOOR>
+	<BasicBottomFloor weight="100" link="../Buildings/Assets/BottomFloor/FactoryBottomFloor.xml"/>
+  </G_BOTTOMFLOOR>
+  <G_MIDDLEFLOOR random="1">
+    <BasicMiddleFloor weight="100" link="../Buildings/Assets/MiddleFloor/FactoryMiddleFloor.xml"/>
+  </G_MIDDLEFLOOR>
+  <G_TOPFLOOR >
+    <BasicTopFloor weight="100" link="../Buildings/Assets/TopFloor/FactoryTopFloor.xml"/>
+  </G_TOPFLOOR>
+</Plan>

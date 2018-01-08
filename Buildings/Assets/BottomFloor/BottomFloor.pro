@@ -1,0 +1,2 @@
+LOCAL_ASSET_HEADER_FILES = BottomFloor.hpp BasicBottomFloor.hpp BottomFloorWithTwoFacades.hpp CommercialBottomFloor.hpp
+LOCAL_ASSET_SRC_FILES = BottomFloor.cpp BasicBottomFloor.cpp BottomFloorWithTwoFacades.cpp CommercialBottomFloor.cpp

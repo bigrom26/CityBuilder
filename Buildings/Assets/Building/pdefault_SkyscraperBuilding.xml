@@ -1,0 +1,12 @@
+<Plan>
+  <G_BOTTOMFLOOR>
+	<CommercialBottomFloor weight="100" link="../Buildings/Assets/BottomFloor/pdefault_CommercialBottomFloor.xml"/>
+  </G_BOTTOMFLOOR>
+  <G_MIDDLEFLOOR>
+	<WorkingMiddleFloor weight="100"/>
+	<WorkingMiddleFloor2 weight="100"/>
+  </G_MIDDLEFLOOR>
+  <G_TOPFLOOR>
+	<WorkingTopFloor weight="100"/>
+  </G_TOPFLOOR>
+</Plan>

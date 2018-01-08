@@ -1,0 +1,17 @@
+<Plan>
+  <G_ROOF>
+    <SimpleRoof weight="100"/>
+	<FlatRoof weight="100"/>
+    <RoofWithChimney weight="100" link="../Buildings/Assets/Roof/pdefault_RoofWithChimney.xml"/>
+  </G_ROOF>
+  <G_DECORATION>
+    <Bar weight="100"/>
+	<DecorationNull weight="100"/>
+  </G_DECORATION>
+  <G_WALLWITHWINDOW>
+    <BasicWallWithWindow weight="100" link="../Buildings/Assets/WallWithWindow/pdefault_BasicWallWithWindow.xml"/>
+	<WallWithInBalcony weight="100" link="../Buildings/Assets/WallWithWindow/pdefault_WallWithInBalcony.xml"/>
+	<WallWithStore weight="100" link="../Buildings/Assets/WallWithWindow/pdefault_WallWithStore.xml"/>
+	<WallWithWindowAndBalcony weight="100" link="../Buildings/Assets/WallWithWindow/pdefault_WallWithWindowAndBalcony.xml"/>
+  </G_WALLWITHWINDOW>
+</Plan>

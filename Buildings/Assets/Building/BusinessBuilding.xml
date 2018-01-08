@@ -1,0 +1,17 @@
+<Plan>
+  <G_BOTTOMFLOOR>
+    <BasicBottomFloor weight="100" link="../Buildings/Assets/BottomFloor/pdefault_BasicBottomFloor.xml"/>
+  </G_BOTTOMFLOOR>
+  <G_MIDDLEFLOOR random="1">
+    <BasicMiddleFloor weight="100" link="../Buildings/Assets/MiddleFloor/pdefault_BasicMiddleFloor.xml"/>
+  </G_MIDDLEFLOOR>
+  <G_TOPFLOOR >
+    <BasicTopFloor weight="100" link="../Buildings/Assets/TopFloor/pdefault_BasicTopFloor.xml"/>
+  </G_TOPFLOOR>
+  <G_GUARDRAIL>
+    <GuardrailWithColumn weight="100" link="../Buildings/Assets/Guardrail/pdefault_GuardrailWithColumn.xml"/>
+  </G_GUARDRAIL>
+  <G_SATELLITEDISH>
+    <SimpleSatelliteDish weight="100" />
+  </G_SATELLITEDISH>
+</Plan>

@@ -1,0 +1,6 @@
+<Building>
+  <FRAMEWINDOW type="BasicFrameWindow"/>
+  <WINDOW type="CrossWindow"/>
+  <WALL type ="BasicWall"/>
+  <DECORATION type="Bar"/>
+</Building>

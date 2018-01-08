@@ -1,0 +1,8 @@
+<Plan>
+  <G_STREETBLOC>
+     <StreetCorner weight="100" link="../Buildings/Assets/StreetBloc/BusinessStreetBloc.xml" />
+  </G_STREETBLOC>
+  <G_STREETALLEY>
+     <StreetAlley weight="100" link="../Buildings/Assets/StreetBloc/BusinessStreetBloc.xml" />
+  </G_STREETALLEY>
+</Plan>

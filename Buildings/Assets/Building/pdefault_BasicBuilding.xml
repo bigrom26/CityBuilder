@@ -1,0 +1,19 @@
+<Plan>
+  <G_BOTTOMFLOOR>
+    <BasicBottomFloor weight="100" link="../Buildings/Assets/BottomFloor/pdefault_BasicBottomFloor.xml"/>
+	<CommercialBottomFloor weight="100" link="../Buildings/Assets/BottomFloor/pdefault_CommercialBottomFloor.xml"/>
+	<BottomFloorWithTwoFacades weight="100" link="../Buildings/Assets/BottomFloor/pdefault_BottomFloorWithTwoFacades.xml"/>
+  </G_BOTTOMFLOOR>
+  <G_MIDDLEFLOOR random="1">
+    <BasicMiddleFloor weight="100" link="../Buildings/Assets/MiddleFloor/pdefault_BasicMiddleFloor.xml"/>
+	<OutMiddleFloor weight="100" link="../Buildings/Assets/MiddleFloor/pdefault_OutMiddleFloor.xml"/>
+	<MiddleFloorWithTwoFacades weight="100" link="../Buildings/Assets/MiddleFloor/pdefault_MiddleFloorWithTwoFacades.xml"/>
+	<WorkingMiddleFloor weight="100"/>
+	<WorkingMiddleFloor2 weight="100"/>
+  </G_MIDDLEFLOOR>
+  <G_TOPFLOOR >
+    <BasicTopFloor weight="100" link="../Buildings/Assets/TopFloor/pdefault_BasicTopFloor.xml"/>
+	<TopFloorWithTwoFacades weight="100" link="../Buildings/Assets/TopFloor/pdefault_TopFloorWithTwoFacades.xml"/>
+	<WorkingTopFloor weight="100"/>
+  </G_TOPFLOOR>
+</Plan>

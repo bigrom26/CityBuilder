@@ -1,0 +1,3 @@
+LOCAL_ASSET_HEADER_FILES = WallWithWindow.hpp WallWithStore.hpp WallWithWindowAndBalcony.hpp WallWithBigWindow.hpp BasicWallWithWindow.hpp WallWithInBalcony.hpp
+LOCAL_ASSET_SRC_FILES = WallWithWindow.cpp WallWithStore.cpp WallWithWindowAndBalcony.cpp WallWithBigWindow.cpp BasicWallWithWindow.cpp WallWithInBalcony.cpp
+ 

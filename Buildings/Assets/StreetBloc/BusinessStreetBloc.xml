@@ -1,0 +1,17 @@
+<Plan>
+  <G_BUILDING random="0">
+     <SkyscraperBuilding weight="75" link="../Buildings/Assets/Building/BusinessBuilding.xml"/>
+    <BasicBuilding weight="25" link="../Buildings/Assets/Building/pdefault_BasicBuilding.xml"/>
+    <BasicBuilding weight="10" link="../Buildings/Assets/Building/FactoryBuilding.xml"/>
+  </G_BUILDING>
+  <G_PAVEMENT>
+    <BasicPavement weight="100" />
+  </G_PAVEMENT>
+  <G_STREETLIGHT>
+    <SimpleStreetlight weight="100" />
+  </G_STREETLIGHT>
+  <G_TRAFFICLIGHT>
+    <BigTrafficLight weight="100" />
+  </G_TRAFFICLIGHT>
+</Plan> 
+ 
